@@ -15,7 +15,7 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here:
-  O(n^2): two loops iterates n times (array inputs)
+  O(n^2): two loops iterates n times (array inputs)...maybe?! ¯\_(ツ)_/¯ 
 */
 
 /* 
